@@ -32,3 +32,5 @@ pip install ratemyprofessor
 - Tested with Python 3.8 and above
 - RateMyProfessor ratings may not be accurate and are subject to change; use as a guide only
 - Author: Jkollar116
+- Check out the updated HTML file with the professor ratings at [https://fscratedschedule.com/](https://fscratedschedule.com/)
+</pre>
