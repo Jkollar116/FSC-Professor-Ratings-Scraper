@@ -1,4 +1,4 @@
-import os, re, requests, shutil
+import os, re, requests, shutil, boto3
 from datetime import datetime
 from pathlib import Path
 import ratemyprofessor
@@ -96,4 +96,12 @@ with open(folder_path / f'ss23_{timestamp}.txt', 'r+', encoding='UTF8') as f:
                 f.write(line)
 
     f.truncate()
+    
+    
+#create a s3 client
+
+s3 = boto3.client('s3')
+
+#upload file to bucket
+response = s3.upload_file(str(uploadFile), 'fscratedschedule.com', 'spring_schd_2023.html')
 
