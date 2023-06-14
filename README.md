@@ -43,8 +43,10 @@ pip install boto3
 - Author: Jkollar116
 - Check out the updated HTML file with the professor ratings at [https://fscratedschedule.com/](https://fscratedschedule.com/)
 
-                              Before                                                            After
- <img width="500" alt="Screenshot 2023-06-14 143351" src="https://github.com/Jkollar116/FSC-Professor-Ratings-Scraper/assets/77344875/249a2f16-0d9a-4cea-8ad3-bd65e563ab43">              
+ Before                                                                                               
+ <img width="500" alt="Screenshot 2023-06-14 143351" src="https://github.com/Jkollar116/FSC-Professor-Ratings-Scraper/assets/77344875/249a2f16-0d9a-4cea-8ad3-bd65e563ab43">
+          
+After                                                                 
 <img width="500" alt="Screenshot 2023-06-14 143329" src="https://github.com/Jkollar116/FSC-Professor-Ratings-Scraper/assets/77344875/193516b8-d8f9-4e8a-a96b-c86e630e327f">
 
 
